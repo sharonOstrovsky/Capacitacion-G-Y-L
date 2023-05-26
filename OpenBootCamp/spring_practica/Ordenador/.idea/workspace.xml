@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a0b02d3-ba58-4119-8d9b-826f389eb425" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2K8gkgR0s58IYENw22uleRb8fOW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/sharo/OneDrive/Escritorio/Mentoria/OpenBootCamp/spring_practica/Laptop/Ordenador",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "spring.configuration.checksum": "afa8013c73e3bf8c0bc6951a27e4b719"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.Ordenador.Controller" />
+      <recent name="com.example.Ordenador.Service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.Ordenador.config" />
+      <recent name="com.example.Ordenador.Controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LaptopControllerTest.delete">
+    <configuration name="LaptopControllerTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ordenador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Ordenador.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Ordenador.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Ordenador.Controller.LaptopControllerTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaptopControllerTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ordenador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Ordenador.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Ordenador.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Ordenador.Controller.LaptopControllerTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaptopControllerTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ordenador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Ordenador.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Ordenador.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Ordenador.Controller.LaptopControllerTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaptopControllerTest.findOneById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ordenador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Ordenador.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Ordenador.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Ordenador.Controller.LaptopControllerTest" />
+      <option name="METHOD_NAME" value="findOneById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaptopControllerTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ordenador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Ordenador.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.Ordenador.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Ordenador.Controller.LaptopControllerTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdenadorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Ordenador" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Ordenador.OrdenadorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LaptopControllerTest.delete" />
+        <item itemvalue="JUnit.LaptopControllerTest.create" />
+        <item itemvalue="JUnit.LaptopControllerTest.findOneById" />
+        <item itemvalue="JUnit.LaptopControllerTest.findAll" />
+        <item itemvalue="JUnit.LaptopControllerTest.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a0b02d3-ba58-4119-8d9b-826f389eb425" name="Changes" comment="" />
+      <created>1673361769214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673361769214</updated>
+      <workItem from="1673361770725" duration="14106000" />
+      <workItem from="1673439207501" duration="14770000" />
+      <workItem from="1673479620399" duration="2160000" />
+      <workItem from="1673528822359" duration="7994000" />
+      <workItem from="1673637245529" duration="7243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

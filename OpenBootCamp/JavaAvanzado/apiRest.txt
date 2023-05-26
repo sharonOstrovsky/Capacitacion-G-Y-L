@@ -1,0 +1,24 @@
+SERVICIO REST
+
+-es una aplicacion web que cumple una serie de patrones determinados
+
+-verbos HTTP: 
+	->tipo de peticion que enviamos a un servidor utilizando el protocolo HTTP
+	->GET: obtiene info/recurso de un servidor(puede ser una imagen, un fichero,una pagina httml...)
+	->POST: envio datos al servidor (ej llenar un formulario)
+	->PUT: actualizar algo que ya exista en nuestra pagina web; actualiza un usuario enviandole todos los datos del usuario mas los datos que ha cambiado
+	->PATCH: actualiza un usuario enviando unicamente los datos que han cambiado; muchas aplicaciones no soportan el patch
+	->DELETE: eliminar un recurso que ya exista
+  "CRUD" (Creat Replace Update Delete)
+
+-NOMECLATURA: 
+-nombres en plural para recursos
+http://www.dominio.tld/users
+http://www.dominio.tld/users/paco
+http://www.dominio.tld/users/vroman/friends/paco
+
+http://www.dominio.tld/cars
+http://www.dominio.tld/pets
+
+-se suele hacer versiones de las api
+http://www.dominio.tld/api/v1/users

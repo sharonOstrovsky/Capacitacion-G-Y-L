@@ -1,0 +1,21 @@
+.foto{
+    width: 100px;
+    height: 100PX;
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px hsl(240, 25%, 50%, 20%);
+
+}
+body,
+html {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  color: #edf6f9;
+}
+body {
+ background-image: url("/img/fondo-m.jpeg");
+ background-size: cover;
+ background-position: center;
+}
+

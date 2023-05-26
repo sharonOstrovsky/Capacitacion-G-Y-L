@@ -1,0 +1,32 @@
+
+ley de practicas formativas ley 6393
+gyl contata al 20% al final de la practica
+4 meses
+lun a vier
+horario 9hs a 18hs mañana o tarde(4hs diarias) ELEGIR
+no se puede horario rotativo
+seguro de vida y plan medico obligatorio
+asignacion estimnulo 35mil mensual en banco ciudad
+14 de noviembre
+
+temario:
+1°mes: Capacitacion teorica, fundamentos de programacion, programacion inicial, paradigmas de programacion
+2° mes: Base de datos, fundamentos y postgreSQL, sistema de control de version git y ejercicios practicos
+3° mes: Sistema de control de version git, arquitectura, fundamentos, arquitectura backend
+4° mes: Desarrollo de prototipos de aplicaciones, definiciones, diseño, desarrollo y documentacion.
+
+no estar dado de alta en afip y anses, no podemos tener trabajos formales
+certificacion negativa en anses o trabajo en blanco en afip
+
+tutor para dudas y control desde el gob para asegurar que se cumpla todo
+
+ 
+
+
+9-13hs
+Sharon
+jasbir
+max
+
+14-18hs
+carla
